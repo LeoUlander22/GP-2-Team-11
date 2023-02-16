@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c5738015-062a-4e33-82f0-f9dcacedcc8a}">
+		<property name="assetPath">
+			<value>Footstep Carpet-014.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.3001133786848074</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ed1193b6-59f1-4345-9c8c-ab6bf5441f35}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e6d00415-5c12-4fa2-abc5-dd1af71f6ad9}">
+		<property name="assetPath">
+			<value>Mechanical, Pulley, Hand Crank, Slow, Squeak, Creak, Metal Rattle 01 SND5304.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.6082187499999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ed1193b6-59f1-4345-9c8c-ab6bf5441f35}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{92c32eed-d2c6-4f92-a5a8-a748cca067ea}">
+		<property name="assetPath">
+			<value>Water, Flow, Stream, Falling In Sewer Drain, Resonating Pipe SND36995.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>18.297406250000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ed1193b6-59f1-4345-9c8c-ab6bf5441f35}</destination>
+		</relationship>
+	</object>
+</objects>

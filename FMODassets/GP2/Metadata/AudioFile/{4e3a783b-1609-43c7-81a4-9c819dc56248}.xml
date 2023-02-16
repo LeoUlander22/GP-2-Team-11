@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4e3a783b-1609-43c7-81a4-9c819dc56248}">
+		<property name="assetPath">
+			<value>Water, Drip, Bath Drips SND76224 9.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.65719791666666671</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ed1193b6-59f1-4345-9c8c-ab6bf5441f35}</destination>
+		</relationship>
+	</object>
+</objects>

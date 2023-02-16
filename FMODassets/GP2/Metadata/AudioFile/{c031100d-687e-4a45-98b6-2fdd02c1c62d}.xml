@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c031100d-687e-4a45-98b6-2fdd02c1c62d}">
+		<property name="assetPath">
+			<value>Footstep Wooden Creaky-002.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.5031519274376417</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ed1193b6-59f1-4345-9c8c-ab6bf5441f35}</destination>
+		</relationship>
+	</object>
+</objects>
